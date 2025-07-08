@@ -1,0 +1,5 @@
+langchain>=0.2.7
+langchain-groq
+python-dotenv
+playwright
+astunparse  # for ast.literal_eval (part of stdlib, but some environments require this) 
